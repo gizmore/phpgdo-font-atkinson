@@ -27,5 +27,11 @@ final class Module_FontAtkinson extends GDO_Module
 		}
 	}
 	
+	public function getLicenseFilenames() : array
+	{
+		return [
+			'ATKINSON_LICENSE.md',
+		];
+	}
 
 }
