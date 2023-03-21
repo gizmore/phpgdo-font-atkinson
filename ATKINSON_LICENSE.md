@@ -25,31 +25,32 @@ PERMISSION & CONDITIONS
 Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software,
 to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of
 the Font Software, subject to the following conditions:
+
 1) Neither the Font Software nor any of its individual components, in Original Version or Modified
-Version, may be sold by itself.
+   Version, may be sold by itself.
 2) The Original Version or Modified Version of the Font Software may be bundled, redistributed
-and/or sold with any other software, provided that each copy contains the above copyright notice
-and this license. These can be included either as stand-alone text files, human-readable headers
-or in the appropriate machine-readable metadata fields within text or binary files as long as those
-fields can be easily viewed by the user.
+   and/or sold with any other software, provided that each copy contains the above copyright notice
+   and this license. These can be included either as stand-alone text files, human-readable headers
+   or in the appropriate machine-readable metadata fields within text or binary files as long as those
+   fields can be easily viewed by the user.
 3) No Modified Version of the Font Software may use the Reserved Typeface Name unless explicit
-written permission is granted by Copyright Holder. This restriction only applies to the primary font
-name as presented to the users.
+   written permission is granted by Copyright Holder. This restriction only applies to the primary font
+   name as presented to the users.
 4) The name of Copyright Holder or the Author(s) of the Font Software shall not be used to promote,
-endorse or advertise any Modified Version or any related software or other product, except:
-(a) to acknowledge the contribution(s) of Copyright Holder and the Author(s); or
-(b) with the prior written permission of Copyright Holder.
+   endorse or advertise any Modified Version or any related software or other product, except:
+   (a) to acknowledge the contribution(s) of Copyright Holder and the Author(s); or
+   (b) with the prior written permission of Copyright Holder.
 5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under
-this license, and must not be distributed under any other license.
-TERMINATION
-This license shall immediately terminate and become null and void if any of the above conditions
-are not met.
-DISCLAIMER
-THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,
-TRADEMARK OR OTHER RIGHT. IN NO EVENT SHALL COPYRIGHT HOLDER BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT,
-INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT
-OR OTHERWISE, ARISING FROM, OUT OF THE USE OF OR INABILITY TO USE THE FONT
-SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+   this license, and must not be distributed under any other license.
+   TERMINATION
+   This license shall immediately terminate and become null and void if any of the above conditions
+   are not met.
+   DISCLAIMER
+   THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,
+   TRADEMARK OR OTHER RIGHT. IN NO EVENT SHALL COPYRIGHT HOLDER BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT,
+   INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT
+   OR OTHERWISE, ARISING FROM, OUT OF THE USE OF OR INABILITY TO USE THE FONT
+   SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.

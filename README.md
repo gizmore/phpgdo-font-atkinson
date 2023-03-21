@@ -5,7 +5,6 @@ ATKINSON HYPERLEGIBLE FONT for
 
 Optionally make it the default font of a website.
 
-
 #### phpgdo-font-atkinson: License
 
 This module is licensed under the

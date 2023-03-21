@@ -1,20 +1,23 @@
 @font-face {
-	font-family: atkinson;
-	src: url(font/Atkinson-Hyperlegible-Regular-102a.woff2);
+    font-family: atkinson;
+    src: url(font/Atkinson-Hyperlegible-Regular-102a.woff2);
 }
+
 @font-face {
-	font-family: atkinson;
-	src: url(font/Atkinson-Hyperlegible-Bold-102a.woff2);
-	font-weight: bold;
+    font-family: atkinson;
+    src: url(font/Atkinson-Hyperlegible-Bold-102a.woff2);
+    font-weight: bold;
 }
+
 @font-face {
-	font-family: atkinson;
-	src: url(font/Atkinson-Hyperlegible-Italic-102a.woff2);
-	font-style: italic;
+    font-family: atkinson;
+    src: url(font/Atkinson-Hyperlegible-Italic-102a.woff2);
+    font-style: italic;
 }
+
 @font-face {
-	font-family: atkinson;
-	src: url(font/Atkinson-Hyperlegible-BoldItalic-102a.woff2);
-	font-weight: bold;
-	font-style: italic;
+    font-family: atkinson;
+    src: url(font/Atkinson-Hyperlegible-BoldItalic-102a.woff2);
+    font-weight: bold;
+    font-style: italic;
 }

@@ -6,19 +6,19 @@ use GDO\Core\GDT_Checkbox;
 
 final class Module_FontAtkinson extends GDO_Module
 {
+
 	public string $license = 'Atkinson';
-	
-	public function getConfig() : array
+
+	public function getConfig(): array
 	{
 		return [
 			GDT_Checkbox::make('use_globally')->initial('1'),
 		];
 	}
-	public function cfgUseGlobally() : bool { return $this->getConfigValue('use_globally'); }
-	
-	public function onLoadLanguage() : void { $this->loadLanguage('lang/atkinson'); }
-	
-	public function onIncludeScripts() : void
+
+	public function onLoadLanguage(): void { $this->loadLanguage('lang/atkinson'); }
+
+	public function onIncludeScripts(): void
 	{
 		$this->addCSS('css/atkinson.css');
 		if ($this->cfgUseGlobally())
@@ -26,8 +26,10 @@ final class Module_FontAtkinson extends GDO_Module
 			$this->addCSS('css/use_atkinson.css');
 		}
 	}
-	
-	public function getLicenseFilenames() : array
+
+	public function cfgUseGlobally(): bool { return $this->getConfigValue('use_globally'); }
+
+	public function getLicenseFilenames(): array
 	{
 		return [
 			'ATKINSON_LICENSE.md',
